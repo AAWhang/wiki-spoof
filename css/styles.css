@@ -1,0 +1,12 @@
+div.col-md-2:first-of-type {
+
+float:left;
+}
+
+.lt{
+  text-align:left;
+}
+
+.rt{
+  float:right;
+}
